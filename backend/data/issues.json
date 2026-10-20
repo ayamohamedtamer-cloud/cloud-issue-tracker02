@@ -1,0 +1,171 @@
+[
+  {
+    "id": "ISS-101",
+    "title": "Unable to access Wi-Fi",
+    "description": "Connection fails in the teaching lab.",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-09-01T09:00:00.000Z"
+  },
+  {
+    "id": "bc36bf51-0429-4adf-95c6-12476e2a458a",
+    "title": "Printer unavailable",
+    "description": "The shared printer is not responding.",
+    "priority": "Medium",
+    "createdAt": "2026-10-20T10:00:27.478Z"
+  },
+  {
+    "id": "f06392d2-b8ea-411b-a611-cb91c04d597d",
+    "title": "Printer unavailable",
+    "description": "The shared printer is not responding.",
+    "priority": "Medium",
+    "createdAt": "2026-10-20T10:00:39.806Z"
+  },
+  {
+    "id": "f4bb4024-a6e9-4b66-b662-2083e225e885",
+    "title": "Printer unavailable",
+    "description": "The shared printer is not responding.",
+    "priority": "Medium",
+    "createdAt": "2026-10-20T10:00:55.960Z"
+  },
+  {
+    "id": "9492f5e5-f621-4257-bcd3-b90ac6383932",
+    "title": "Printer unavailable",
+    "description": "The shared printer is not responding.",
+    "priority": "Medium",
+    "createdAt": "2026-10-20T10:01:23.654Z"
+  },
+  {
+    "id": "ac595b5e-97e8-46e0-8212-47a7764c2d1f",
+    "title": "Printer unavailable",
+    "description": "The shared printer is not responding.",
+    "priority": "Medium",
+    "createdAt": "2026-10-20T10:02:41.884Z"
+  },
+  {
+    "id": "0747e024-819f-4727-975f-2ff9cc35336b",
+    "title": "Printer unavailable",
+    "description": "The shared printer is not responding.",
+    "priority": "Medium",
+    "createdAt": "2026-10-20T10:02:51.452Z"
+  },
+  {
+    "id": "ca0727bd-6e43-44bf-b26d-a768f77d928b",
+    "title": "Printer unavailable",
+    "description": "The shared printer is not responding.",
+    "priority": "Medium",
+    "createdAt": "2026-10-20T10:03:00.403Z"
+  },
+  {
+    "id": "086fdafa-68ce-4492-944e-c7e62dfe758a",
+    "title": "Printer unavailable",
+    "description": "The shared printer is not responding.",
+    "priority": "Medium",
+    "createdAt": "2026-10-20T10:03:32.931Z"
+  },
+  {
+    "id": "7fb0c615-52d3-4e0d-886a-2303a1400435",
+    "title": "Printer unavailable",
+    "description": "The shared printer is not responding.",
+    "priority": "Medium",
+    "createdAt": "2026-10-20T10:03:33.869Z"
+  },
+  {
+    "id": "d0c3eaa7-2569-46a9-b2e5-562d8914a996",
+    "title": "Printer unavailable",
+    "description": "The shared printer is not responding.",
+    "priority": "Medium",
+    "createdAt": "2026-10-20T10:03:34.702Z"
+  },
+  {
+    "id": "8d0ae14c-7ed1-455f-9a29-f0aa9d052c1e",
+    "title": "Printer unavailable",
+    "description": "The shared printer is not responding.",
+    "priority": "Medium",
+    "createdAt": "2026-10-20T10:03:40.104Z"
+  },
+  {
+    "id": "3ed340a0-a773-46a5-a89d-4a7278e8ba1c",
+    "title": "Printer unavailable",
+    "description": "The shared printer is not responding.",
+    "priority": "Medium",
+    "createdAt": "2026-10-20T10:03:40.880Z"
+  },
+  {
+    "id": "5de1a0d4-81f7-4d93-bb81-9dc9ad969858",
+    "title": "Printer unavailable",
+    "description": "The shared printer is not responding.",
+    "priority": "Medium",
+    "createdAt": "2026-10-20T10:03:41.206Z"
+  },
+  {
+    "id": "1ff1cfe6-c0e0-4182-8812-5674424a3b75",
+    "title": "Printer unavailable",
+    "description": "The shared printer is not responding.",
+    "priority": "Medium",
+    "createdAt": "2026-10-20T10:03:41.366Z"
+  },
+  {
+    "id": "2d395c21-c6c7-4b0c-b629-b0f3df19a865",
+    "title": "Printer unavailable",
+    "description": "The shared printer is not responding.",
+    "priority": "Medium",
+    "createdAt": "2026-10-20T10:03:41.734Z"
+  },
+  {
+    "id": "82aa27d2-033b-498d-9e84-8fa558f9104a",
+    "title": "Printer unavailable",
+    "description": "The shared printer is not responding.",
+    "priority": "Medium",
+    "createdAt": "2026-10-20T10:03:41.889Z"
+  },
+  {
+    "id": "1b276698-5868-4fe0-9678-f7949606759b",
+    "title": "Printer unavailable",
+    "description": "The shared printer is not responding.",
+    "priority": "Medium",
+    "createdAt": "2026-10-20T10:03:42.085Z"
+  },
+  {
+    "id": "b9be528c-7239-4c48-bb90-ac78a1f6a37e",
+    "title": "Printer unavailable",
+    "description": "The shared printer is not responding.",
+    "priority": "Medium",
+    "createdAt": "2026-10-20T10:03:46.252Z"
+  },
+  {
+    "id": "866d9fa2-fcbe-477a-b94f-168727dd99aa",
+    "title": "Printer unavailable",
+    "description": "The shared printer is not responding.",
+    "priority": "Medium",
+    "createdAt": "2026-10-20T10:03:46.778Z"
+  },
+  {
+    "id": "8395115d-8d7a-4dc7-b8e5-0422a0cfefda",
+    "title": "Printer unavailable",
+    "description": "The shared printer is not responding.",
+    "priority": "Medium",
+    "createdAt": "2026-10-20T10:03:46.923Z"
+  },
+  {
+    "id": "d348f56a-26e9-4d6b-a189-1826c9d0b8f1",
+    "title": "Printer unavailable",
+    "description": "The shared printer is not responding.",
+    "priority": "Medium",
+    "createdAt": "2026-10-20T10:03:47.082Z"
+  },
+  {
+    "id": "3df6c696-5d12-44f5-b78c-c21d7bab85d6",
+    "title": "Printer unavailable",
+    "description": "The shared printer is not responding.",
+    "priority": "Medium",
+    "createdAt": "2026-10-20T10:03:47.230Z"
+  },
+  {
+    "id": "56db72b7-91fe-4412-920f-5097ab07e0c8",
+    "title": "Printer unavailable",
+    "description": "The shared printer is not responding.",
+    "priority": "Medium",
+    "createdAt": "2026-10-20T10:03:47.392Z"
+  }
+]
